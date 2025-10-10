@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# Docker
+.dockerignore
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

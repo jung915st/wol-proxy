@@ -1,0 +1,297 @@
+Interface: en0, type: EN10MB, MAC: f0:18:98:ef:72:2c, IPv4: 172.16.1.100
+Starting arp-scan 1.10.0 with 2048 hosts (https://github.com/royhills/arp-scan)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 2)
+172.16.0.1	38:c0:ea:84:b2:66	(Unknown)
+172.16.0.10	90:20:c2:eb:58:00	Aruba, a Hewlett Packard Enterprise Company
+172.16.0.11	4c:ae:a3:20:43:f4	Hewlett Packard Enterprise
+172.16.0.12	4c:ae:a3:22:51:1c	Hewlett Packard Enterprise
+172.16.0.13	4c:ae:a3:22:65:14	Hewlett Packard Enterprise
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 3)
+172.16.0.61	d8:ec:e5:d4:21:28	Zyxel Communications Corporation
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 4)
+172.16.0.62	d8:ec:e5:b4:e5:f8	Zyxel Communications Corporation
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 5)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 6)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 7)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 8)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 9)
+172.16.1.105	94:c6:91:98:0a:d8	EliteGroup Computer Systems Co., LTD
+172.16.1.108	34:3a:20:c5:dc:1a	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.109	34:3a:20:c5:df:a0	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.111	34:3a:20:c5:cc:68	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.110	b8:37:b2:c6:47:04	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.112	34:3a:20:c6:13:f8	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.113	b8:37:b2:c6:5f:88	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.114	34:3a:20:c5:b9:d8	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.115	54:f0:b1:c0:91:da	(Unknown)
+172.16.1.118	34:3a:20:c5:b6:2c	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.119	34:3a:20:c5:b9:6c	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.120	b8:37:b2:c6:60:3e	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.123	34:3a:20:c5:c6:64	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.124	34:3a:20:c5:d0:2c	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.126	34:3a:20:c5:a3:dc	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.129	b8:37:b2:c6:51:ec	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.130	48:00:20:ce:dc:8a	(Unknown)
+172.16.1.132	b8:37:b2:c6:2c:78	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.135	34:3a:20:c6:02:5c	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.136	34:3a:20:c5:a3:52	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.137	34:3a:20:c5:d3:66	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.138	54:f0:b1:c0:9f:46	(Unknown)
+172.16.1.106	9c:3e:53:c5:36:15	Apple, Inc.
+172.16.1.139	34:3a:20:c5:a7:a6	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.140	34:3a:20:c5:f8:cc	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.141	34:3a:20:c5:e2:80	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 10)
+172.16.1.142	34:3a:20:c6:02:84	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.143	34:3a:20:c5:f8:0e	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.144	34:3a:20:c6:0f:42	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.145	34:3a:20:c6:15:4a	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.146	34:3a:20:c5:e0:60	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.147	34:3a:20:c5:da:14	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.148	34:3a:20:c6:04:2e	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.149	34:3a:20:c5:de:84	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.150	34:3a:20:c6:12:08	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.151	34:3a:20:c5:b4:34	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.153	5c:6a:ec:40:0d:ed	IEEE Registration Authority
+172.16.1.134	9c:3e:53:c2:5a:60	Apple, Inc.
+172.16.1.159	9c:3e:53:ba:ea:c5	Apple, Inc.
+172.16.1.170	94:c6:91:98:07:f1	EliteGroup Computer Systems Co., LTD
+172.16.1.161	40:b9:3c:6a:8f:34	Hewlett Packard Enterprise
+172.16.1.157	9c:3e:53:b9:a4:57	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 11)
+172.16.1.160	6c:e5:c9:20:fc:98	Apple, Inc.
+172.16.1.196	ee:fb:fa:34:cd:92	(Unknown: locally administered)
+172.16.1.199	d8:43:ae:6f:42:5f	(Unknown)
+172.16.1.183	9c:3e:53:b7:d7:2a	Apple, Inc.
+172.16.1.202	5c:6a:ec:40:0d:d8	IEEE Registration Authority
+172.16.1.203	b0:c5:ca:70:de:2b	SHENZHEN KTC TECHNOLOGY GROUP
+172.16.1.181	5c:6a:ec:40:0d:e9	IEEE Registration Authority
+172.16.1.175	9c:3e:53:c5:cf:82	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 12)
+172.16.1.201	5c:6a:ec:40:0d:d4	IEEE Registration Authority
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 13)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 14)
+172.16.2.124	94:c6:91:98:07:5a	EliteGroup Computer Systems Co., LTD
+172.16.2.131	9c:3e:53:c6:da:39	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 15)
+172.16.2.117	2c:18:09:bd:9e:77	Apple, Inc.
+172.16.2.155	9c:3e:53:cd:2c:ad	Apple, Inc.
+172.16.2.174	c0:8a:cd:5d:32:1c	Guangzhou Shiyuan Electronic Technology Company Limited
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 16)
+172.16.2.165	ec:26:51:68:33:4b	Apple, Inc.
+172.16.2.181	ec:26:51:64:a0:10	Apple, Inc.
+172.16.2.190	ec:26:51:72:5f:5b	Apple, Inc.
+172.16.2.199	f4:ed:5f:9e:c6:a8	SHENZHEN KTC TECHNOLOGY GROUP
+172.16.2.193	9c:3e:53:bd:d6:8c	Apple, Inc.
+172.16.2.189	9c:3e:53:c4:9f:24	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 17)
+172.16.2.196	9c:3e:53:c8:8a:0c	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 18)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 19)
+172.16.3.105	34:3a:20:c5:b0:6c	Aruba, a Hewlett Packard Enterprise Company
+172.16.3.113	9c:3e:53:c2:e8:d7	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 20)
+172.16.3.121	60:95:bd:31:b4:a8	Apple, Inc.
+172.16.3.126	60:95:bd:2d:34:8c	Apple, Inc.
+172.16.3.142	60:95:bd:31:f3:17	Apple, Inc.
+172.16.3.175	04:92:26:3a:ea:78	ASUSTek COMPUTER INC.
+172.16.3.188	4a:e4:11:04:20:2b	(Unknown: locally administered)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 21)
+172.16.3.167	9c:3e:53:c3:e1:40	Apple, Inc.
+172.16.3.162	9c:3e:53:bc:92:57	Apple, Inc.
+172.16.3.165	9c:3e:53:b9:06:74	Apple, Inc.
+172.16.3.150	9c:3e:53:bc:7c:bf	Apple, Inc.
+172.16.3.181	60:95:bd:1f:ab:3b	Apple, Inc.
+172.16.3.195	60:95:bd:23:f8:ba	Apple, Inc.
+172.16.3.192	60:95:bd:2c:12:20	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 22)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 23)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 24)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 25)
+172.16.4.118	9c:3e:53:cb:09:c1	Apple, Inc.
+172.16.4.117	14:95:ce:e8:15:6f	Apple, Inc.
+172.16.4.111	60:95:bd:25:74:37	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 26)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 27)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 28)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 29)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 30)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 31)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 32)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 33)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 34)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 35)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 36)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 37)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 38)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 39)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 40)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 41)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 42)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 43)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 44)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 45)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 46)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 47)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 48)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 49)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 50)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 51)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 52)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 53)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 54)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 55)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 56)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 57)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 58)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 59)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 60)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 61)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 62)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 63)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 64)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 65)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 66)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 67)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 68)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 69)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 70)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 71)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 72)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 73)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 74)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 75)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 76)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 77)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 78)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 79)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 80)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 81)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 82)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 83)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 84)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 85)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 86)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 87)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 88)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 89)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 90)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 91)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 92)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 93)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 94)
+172.16.7.131	d8:43:ae:6f:42:65	(Unknown)
+172.16.7.132	d8:43:ae:74:6d:49	(Unknown)
+172.16.7.133	d8:43:ae:74:6d:47	(Unknown)
+172.16.7.134	d8:43:ae:74:6d:36	(Unknown)
+172.16.7.136	d8:43:ae:74:6d:42	(Unknown)
+172.16.7.137	d8:43:ae:74:6d:3c	(Unknown)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 95)
+172.16.7.149	d8:43:ae:6f:42:63	(Unknown)
+172.16.7.150	1c:69:7a:73:f8:f1	EliteGroup Computer Systems Co., LTD
+172.16.7.151	1c:69:7a:73:40:b6	EliteGroup Computer Systems Co., LTD
+172.16.7.152	1c:69:7a:73:37:bb	EliteGroup Computer Systems Co., LTD
+172.16.7.153	1c:69:7a:73:37:61	EliteGroup Computer Systems Co., LTD
+172.16.7.154	1c:69:7a:73:37:63	EliteGroup Computer Systems Co., LTD
+172.16.7.155	58:11:22:77:d1:bb	ASUSTek COMPUTER INC.
+172.16.7.157	a0:36:bc:5b:3b:55	ASUSTek COMPUTER INC.
+172.16.7.158	a0:36:bc:5b:3f:b2	ASUSTek COMPUTER INC.
+172.16.7.159	a0:36:bc:5a:a8:05	ASUSTek COMPUTER INC.
+172.16.7.160	94:c6:91:98:0c:32	EliteGroup Computer Systems Co., LTD
+172.16.7.162	94:c6:91:98:07:f1	EliteGroup Computer Systems Co., LTD
+172.16.7.163	94:c6:91:98:07:5a	EliteGroup Computer Systems Co., LTD
+172.16.7.164	94:c6:91:98:0a:ec	EliteGroup Computer Systems Co., LTD
+172.16.7.169	1c:69:7a:73:37:2f	EliteGroup Computer Systems Co., LTD
+172.16.7.170	94:c6:91:3b:50:56	EliteGroup Computer Systems Co., LTD
+172.16.7.172	94:c6:91:f5:68:aa	EliteGroup Computer Systems Co., LTD
+172.16.7.173	94:c6:91:f5:6d:ef	EliteGroup Computer Systems Co., LTD
+172.16.7.174	0c:9d:92:5d:23:d9	ASUSTek COMPUTER INC.
+172.16.7.184	d8:43:ae:74:6d:21	(Unknown)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 96)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 97)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 98)
+172.16.0.63	d8:ec:e5:ba:2d:86	Zyxel Communications Corporation
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 99)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 100)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 101)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 102)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 103)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 104)
+172.16.1.121	34:3a:20:c5:bd:3e	Aruba, a Hewlett Packard Enterprise Company
+172.16.1.127	54:f0:b1:c0:ad:ec	(Unknown)
+172.16.1.133	54:f0:b1:c0:97:2a	(Unknown)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 105)
+172.16.1.186	14:95:ce:d8:10:b1	Apple, Inc.
+172.16.1.172	18:7e:b9:79:ea:30	Apple, Inc.
+172.16.1.164	9c:3e:53:ce:27:76	Apple, Inc.
+172.16.1.190	7e:22:9c:7e:6a:bd	(Unknown: locally administered)
+172.16.1.158	9c:3e:53:bf:5c:c4	Apple, Inc.
+172.16.1.197	28:ea:2d:00:b2:6e	Apple, Inc.
+172.16.1.169	9c:3e:53:c4:08:c5	Apple, Inc.
+172.16.1.178	9c:3e:53:bf:c4:99	Apple, Inc.
+172.16.1.184	9c:3e:53:b8:f0:de	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 106)
+172.16.1.200	02:c8:06:c1:18:b5	(Unknown: locally administered)
+172.16.1.206	5c:6a:ec:40:0d:d7	IEEE Registration Authority
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 107)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 108)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 109)
+172.16.2.107	9c:3e:53:bb:e7:d8	Apple, Inc.
+172.16.2.161	9c:3e:53:c1:cd:4b	Apple, Inc.
+172.16.2.159	9c:3e:53:c6:86:62	Apple, Inc.
+172.16.2.135	9c:3e:53:bb:11:aa	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 110)
+172.16.2.197	ec:26:51:6b:4e:b9	Apple, Inc.
+172.16.2.173	ec:26:51:70:30:e5	Apple, Inc.
+172.16.2.156	ec:26:51:6d:61:3f	Apple, Inc.
+172.16.2.188	ec:26:51:63:9a:c2	Apple, Inc.
+172.16.2.167	ec:26:51:6b:11:eb	Apple, Inc.
+172.16.2.183	ec:26:51:70:39:cd	Apple, Inc.
+172.16.2.180	9c:3e:53:ba:16:73	Apple, Inc.
+172.16.2.172	9c:3e:53:c2:cc:fe	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 111)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 112)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 113)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 114)
+172.16.3.120	9c:3e:53:bb:c0:59	Apple, Inc.
+172.16.3.108	14:95:ce:e9:3e:f6	Apple, Inc.
+172.16.3.168	9c:3e:53:bd:11:a6	Apple, Inc.
+172.16.3.174	9c:3e:53:cb:1b:f0	Apple, Inc.
+172.16.3.122	9c:3e:53:c0:0f:ce	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 115)
+172.16.3.173	9c:3e:53:c6:ad:1e	Apple, Inc.
+172.16.3.190	60:95:bd:0a:ab:7f	Apple, Inc.
+172.16.3.183	60:95:bd:24:dd:7c	Apple, Inc.
+172.16.3.193	60:95:bd:20:3f:14	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 116)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 117)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 118)
+172.16.4.108	60:95:bd:28:db:d3	Apple, Inc.
+172.16.4.131	60:95:bd:24:a5:f0	Apple, Inc.
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 119)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 120)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 121)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 122)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 123)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 124)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 125)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 126)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 127)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 128)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 129)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 130)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 131)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 132)
+172.16.7.167	d8:43:ae:74:6d:4a	(Unknown)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 133)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 134)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 135)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 136)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 137)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 138)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 139)
+172.16.1.198	3c:58:c2:9a:1a:0a	Intel Corporate (DUP: 140)
+
+5752 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 2048 hosts scanned in 8.873 seconds (230.81 hosts/sec). 153 responded

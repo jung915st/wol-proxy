@@ -1,0 +1,18 @@
+#version: '3.8'
+
+services:
+  wol-proxy:
+    build: .
+    container_name: wol-proxy
+    restart: unless-stopped
+#    network_mode: "host"
+    
+    # Use the more explicit "long" syntax for mounting volumes.
+    # This is less ambiguous and considered best practice.
+    volumes:
+      - type: bind
+        source: ./target.csv
+        target: /data/targets.csv
+        read_only: true
+    ports:
+      - "5000:5000"
