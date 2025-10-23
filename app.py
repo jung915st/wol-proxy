@@ -6,7 +6,7 @@ from flask import Flask, jsonify
 TARGETS_CSV_PATH = '/data/targets.csv'
 
 # The broadcast IP for your 172.16.0.1/21 network
-BROADCAST_IP = "172.16.0.255"
+BROADCAST_IP = "172.16.7.255"
 
 app = Flask(__name__)
 
